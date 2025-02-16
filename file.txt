@@ -1,0 +1,6 @@
+# Introduction to Git
+This is a simple text file created as part of a Git tutorial.
+It demonstrates how to add, commit, and push changes to GitHub.
+
+- Created by: Noor
+- Date: 2025-02-16
